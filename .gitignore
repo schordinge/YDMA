@@ -1,0 +1,96 @@
+# Compiled Object files
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# FPGA synthesis and implementation
+*.bit
+*.bin
+*.mcs
+*.prm
+*.pof
+*.sof
+*.svf
+*.tcl
+*.twr
+*.xise
+*.xsa
+*.xst
+
+# Xilinx project files
+*.cache/
+*.data/
+*.ip_user_files/
+*.runs/
+*.srcs/
+*.hw/
+*.sim/
+*.xpr
+
+# Quartus project files
+*.qws
+*.qpf
+*.qsf
+*.sld
+*.srf
+*.smf
+*.sopc_builder
+*.dpf
+*.cdf
+*.jdi
+*.pin
+*.ptf.*
+*.sof
+*.pof
+
+# Altera project files
+db/
+incremental_db/
+output_files/
+simulation/
+*_generation_script*
+*_inst.vhd
+*_sim/*
+
+# Vivado project files
+*.Xil/
+*.cache/
+*.data/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.srcs/
+*.tcl
+*.xpr
+*.ipdefs/
+
+# Simulation files
+*.vcd
+*.wlf
+*.vpp_db/
+
+# Backup files
+*.bak
+*.swp
+*.swo
